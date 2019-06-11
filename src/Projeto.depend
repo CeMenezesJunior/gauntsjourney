@@ -1,0 +1,2514 @@
+# depslib dependency file v1.0
+1497927431 source:c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\src\main.cpp
+	"PIG.h"
+
+1454425932 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\pig.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"SDL.h"
+	"SDL_ttf.h"
+	"SDL_image.h"
+	"Tipos_PIG.h"
+	"CJogo.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_config.h
+	"SDL_platform.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\begin_code.h
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\close_code.h
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<intrin.h>
+	<libkern/OSAtomic.h>
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1384894804 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376152944 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376138316 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\sdl_image\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453771724 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\tipos_pig.h
+
+1454616913 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\cjogo.h
+	"CPoolNumeros.h"
+	"CObjeto.h"
+	"CTimer.h"
+	"CGeradorParticulas.h"
+	"CMapaCaracteres.h"
+
+1454013806 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\cpoolnumeros.h
+
+1454014324 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\cobjeto.h
+
+1454012914 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\ctimer.h
+
+1454028857 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\cgeradorparticulas.h
+	"CParticula.h"
+
+1454029168 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\cparticula.h
+
+1453941102 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\cmapacaracteres.h
+	"COffscreenRenderer.h"
+
+1453940807 c:\users\victor\desktop\victor desktop\faculdade\monitoria\[bibliotecas]pig e allegro\pig_v041_windows\include\coffscreenrenderer.h
+
+1498266608 source:c:\users\edu_j\desktop\pig - exercicios\src\main.cpp
+	"PIG.h"
+
+1454425932 c:\users\edu_j\desktop\pig - exercicios\include\pig.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"SDL.h"
+	"SDL_ttf.h"
+	"SDL_image.h"
+	"Tipos_PIG.h"
+	"CJogo.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_config.h
+	"SDL_platform.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\begin_code.h
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\close_code.h
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<intrin.h>
+	<libkern/OSAtomic.h>
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1384894804 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376152944 c:\users\edu_j\desktop\pig - exercicios\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376138316 c:\users\edu_j\desktop\pig - exercicios\include\sdl_image\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453771724 c:\users\edu_j\desktop\pig - exercicios\include\tipos_pig.h
+
+1454616913 c:\users\edu_j\desktop\pig - exercicios\include\cjogo.h
+	"CPoolNumeros.h"
+	"CObjeto.h"
+	"CTimer.h"
+	"CGeradorParticulas.h"
+	"CMapaCaracteres.h"
+
+1454013806 c:\users\edu_j\desktop\pig - exercicios\include\cpoolnumeros.h
+
+1454014324 c:\users\edu_j\desktop\pig - exercicios\include\cobjeto.h
+
+1454012914 c:\users\edu_j\desktop\pig - exercicios\include\ctimer.h
+
+1454028857 c:\users\edu_j\desktop\pig - exercicios\include\cgeradorparticulas.h
+	"CParticula.h"
+
+1454029168 c:\users\edu_j\desktop\pig - exercicios\include\cparticula.h
+
+1453941102 c:\users\edu_j\desktop\pig - exercicios\include\cmapacaracteres.h
+	"COffscreenRenderer.h"
+
+1453940807 c:\users\edu_j\desktop\pig - exercicios\include\coffscreenrenderer.h
+
+1498771782 source:c:\users\edu_j\desktop\gaunt's journey\src\main.cpp
+	"PIG.h"
+
+1454425934 c:\users\edu_j\desktop\gaunt's journey\include\pig.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"SDL.h"
+	"SDL_ttf.h"
+	"SDL_image.h"
+	"Tipos_PIG.h"
+	"CJogo.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_config.h
+	"SDL_platform.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\begin_code.h
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\close_code.h
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<intrin.h>
+	<libkern/OSAtomic.h>
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1384894806 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376152944 c:\users\edu_j\desktop\gaunt's journey\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376138316 c:\users\edu_j\desktop\gaunt's journey\include\sdl_image\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453771726 c:\users\edu_j\desktop\gaunt's journey\include\tipos_pig.h
+
+1454616914 c:\users\edu_j\desktop\gaunt's journey\include\cjogo.h
+	"CPoolNumeros.h"
+	"CObjeto.h"
+	"CTimer.h"
+	"CGeradorParticulas.h"
+	"CMapaCaracteres.h"
+
+1454013808 c:\users\edu_j\desktop\gaunt's journey\include\cpoolnumeros.h
+
+1454014326 c:\users\edu_j\desktop\gaunt's journey\include\cobjeto.h
+
+1454012916 c:\users\edu_j\desktop\gaunt's journey\include\ctimer.h
+
+1454028858 c:\users\edu_j\desktop\gaunt's journey\include\cgeradorparticulas.h
+	"CParticula.h"
+
+1454029170 c:\users\edu_j\desktop\gaunt's journey\include\cparticula.h
+
+1453941104 c:\users\edu_j\desktop\gaunt's journey\include\cmapacaracteres.h
+	"COffscreenRenderer.h"
+
+1453940808 c:\users\edu_j\desktop\gaunt's journey\include\coffscreenrenderer.h
+
+1207626810 source:f:\gaunt's journey\src\main.cpp
+	"PIG.h"
+
+1454422334 f:\gaunt's journey\include\pig.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"SDL.h"
+	"SDL_ttf.h"
+	"SDL_image.h"
+	"Tipos_PIG.h"
+	"CJogo.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_config.h
+	"SDL_platform.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\begin_code.h
+
+1376272758 f:\gaunt's journey\include\sdl\close_code.h
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<intrin.h>
+	<libkern/OSAtomic.h>
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1384891206 f:\gaunt's journey\include\sdl\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\gaunt's journey\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376152944 f:\gaunt's journey\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376138316 f:\gaunt's journey\include\sdl_image\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453768126 f:\gaunt's journey\include\tipos_pig.h
+
+1454613314 f:\gaunt's journey\include\cjogo.h
+	"CPoolNumeros.h"
+	"CObjeto.h"
+	"CTimer.h"
+	"CGeradorParticulas.h"
+	"CMapaCaracteres.h"
+
+1454010208 f:\gaunt's journey\include\cpoolnumeros.h
+
+1454010726 f:\gaunt's journey\include\cobjeto.h
+
+1454009316 f:\gaunt's journey\include\ctimer.h
+
+1454025258 f:\gaunt's journey\include\cgeradorparticulas.h
+	"CParticula.h"
+
+1454025570 f:\gaunt's journey\include\cparticula.h
+
+1453937504 f:\gaunt's journey\include\cmapacaracteres.h
+	"COffscreenRenderer.h"
+
+1453937208 f:\gaunt's journey\include\coffscreenrenderer.h
+
+1498749634 source:c:\users\casa\desktop\gaunt's journey\src\main.cpp
+	"PIG.h"
+
+1454422334 c:\users\casa\desktop\gaunt's journey\include\pig.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"SDL.h"
+	"SDL_ttf.h"
+	"SDL_image.h"
+	"Tipos_PIG.h"
+	"CJogo.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_config.h
+	"SDL_platform.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\begin_code.h
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\close_code.h
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<intrin.h>
+	<libkern/OSAtomic.h>
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1384891206 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376152944 c:\users\casa\desktop\gaunt's journey\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376138316 c:\users\casa\desktop\gaunt's journey\include\sdl_image\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453768126 c:\users\casa\desktop\gaunt's journey\include\tipos_pig.h
+
+1454613314 c:\users\casa\desktop\gaunt's journey\include\cjogo.h
+	"CPoolNumeros.h"
+	"CObjeto.h"
+	"CTimer.h"
+	"CGeradorParticulas.h"
+	"CMapaCaracteres.h"
+
+1454010208 c:\users\casa\desktop\gaunt's journey\include\cpoolnumeros.h
+
+1454010726 c:\users\casa\desktop\gaunt's journey\include\cobjeto.h
+
+1454009316 c:\users\casa\desktop\gaunt's journey\include\ctimer.h
+
+1454025258 c:\users\casa\desktop\gaunt's journey\include\cgeradorparticulas.h
+	"CParticula.h"
+
+1454025570 c:\users\casa\desktop\gaunt's journey\include\cparticula.h
+
+1453937504 c:\users\casa\desktop\gaunt's journey\include\cmapacaracteres.h
+	"COffscreenRenderer.h"
+
+1453937208 c:\users\casa\desktop\gaunt's journey\include\coffscreenrenderer.h
+
+1498751610 source:f:\trabalho\gaunt's journey\src\main.cpp
+	"PIG.h"
+
+1454422334 f:\trabalho\gaunt's journey\include\pig.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"SDL.h"
+	"SDL_ttf.h"
+	"SDL_image.h"
+	"Tipos_PIG.h"
+	"CJogo.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_config.h
+	"SDL_platform.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\begin_code.h
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\close_code.h
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<intrin.h>
+	<libkern/OSAtomic.h>
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1384891206 f:\trabalho\gaunt's journey\include\sdl\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 f:\trabalho\gaunt's journey\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376152944 f:\trabalho\gaunt's journey\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376138316 f:\trabalho\gaunt's journey\include\sdl_image\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453768126 f:\trabalho\gaunt's journey\include\tipos_pig.h
+
+1454613314 f:\trabalho\gaunt's journey\include\cjogo.h
+	"CPoolNumeros.h"
+	"CObjeto.h"
+	"CTimer.h"
+	"CGeradorParticulas.h"
+	"CMapaCaracteres.h"
+
+1454010208 f:\trabalho\gaunt's journey\include\cpoolnumeros.h
+
+1454010726 f:\trabalho\gaunt's journey\include\cobjeto.h
+
+1454009316 f:\trabalho\gaunt's journey\include\ctimer.h
+
+1454025258 f:\trabalho\gaunt's journey\include\cgeradorparticulas.h
+	"CParticula.h"
+
+1454025570 f:\trabalho\gaunt's journey\include\cparticula.h
+
+1453937504 f:\trabalho\gaunt's journey\include\cmapacaracteres.h
+	"COffscreenRenderer.h"
+
+1453937208 f:\trabalho\gaunt's journey\include\coffscreenrenderer.h
+
+1498771782 source:c:\users\edu_j\documents\gaunt's journey\src\main.cpp
+	"PIG.h"
+
+1454425934 c:\users\edu_j\documents\gaunt's journey\include\pig.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"SDL.h"
+	"SDL_ttf.h"
+	"SDL_image.h"
+	"Tipos_PIG.h"
+	"CJogo.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_config.h
+	"SDL_platform.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\begin_code.h
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\close_code.h
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<intrin.h>
+	<libkern/OSAtomic.h>
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1384894806 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376272758 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376152944 c:\users\edu_j\documents\gaunt's journey\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376138316 c:\users\edu_j\documents\gaunt's journey\include\sdl_image\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453771726 c:\users\edu_j\documents\gaunt's journey\include\tipos_pig.h
+
+1454616914 c:\users\edu_j\documents\gaunt's journey\include\cjogo.h
+	"CPoolNumeros.h"
+	"CObjeto.h"
+	"CTimer.h"
+	"CGeradorParticulas.h"
+	"CMapaCaracteres.h"
+
+1454013808 c:\users\edu_j\documents\gaunt's journey\include\cpoolnumeros.h
+
+1454014326 c:\users\edu_j\documents\gaunt's journey\include\cobjeto.h
+
+1454012916 c:\users\edu_j\documents\gaunt's journey\include\ctimer.h
+
+1454028858 c:\users\edu_j\documents\gaunt's journey\include\cgeradorparticulas.h
+	"CParticula.h"
+
+1454029170 c:\users\edu_j\documents\gaunt's journey\include\cparticula.h
+
+1453941104 c:\users\edu_j\documents\gaunt's journey\include\cmapacaracteres.h
+	"COffscreenRenderer.h"
+
+1453940808 c:\users\edu_j\documents\gaunt's journey\include\coffscreenrenderer.h
+
